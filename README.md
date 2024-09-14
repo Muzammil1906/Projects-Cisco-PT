@@ -27,7 +27,7 @@ Cisco Packet Tracer: Version 8.0 or higher.
 Git: For version control and collaboration.
 <br>
 
-<b>Usage"</b>
+<b>Usage:</b>
 <br>
 Open the .pkt file in Cisco Packet Tracer.
 <br>

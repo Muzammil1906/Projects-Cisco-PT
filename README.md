@@ -4,14 +4,12 @@ This repo has my Cisco Packet Tracer Projects.
 <b>Author </b> - Mohammed Muzammil
 <br>
 
-<b>Overview</b>
+<b>Overview:</b>
 <br>
-<pre>
 This project demonstrates the setup and configuration of a home network using Cisco Packet Tracer. The network includes various devices such as PCs, laptops, smartphones, and wireless routers, showcasing connectivity and configuration best practices.
-</pre>
 <br>
 
-<b>Features</b>
+<b>Features:</b>
 <br>
 Wireless Network Setup: Configuration of wireless routers and connection of wireless devices.
 <br>
@@ -22,14 +20,14 @@ IP Addressing: Assignment of static and dynamic IP addresses.
 Network Security: Implementation of basic security measures such as WPA2 encryption for wireless networks.
 <br>
 
-<b>Requirements</b>
+<b>Requirements:</b>
 <br>
 Cisco Packet Tracer: Version 8.0 or higher.
 <br>
 Git: For version control and collaboration.
 <br>
 
-<b>Usage</b>
+<b>Usage"</b>
 <br>
 Open the .pkt file in Cisco Packet Tracer.
 <br>
@@ -38,7 +36,7 @@ Switch to Physical Mode for better understandings.
 Run simulations to test network functionality.
 <br>
 
-<b>Important Credentials</b>
+<b>Important Credentials:</b>
 <br>
 Home Network Devices:
 <br>
@@ -81,17 +79,18 @@ ISP Network:
 </pre>
 <br>
 
-<b>Contributing</b>
+<b>Contribution:</b>
 <br>
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 <br>
 
-<b>License</b>
+<b>License:</b>
 <br>
 This project is licensed under the MIT License - see the LICENSE file for details.
 <br>
 
-<b>Acknowledgments</b>
+<b>Acknowledgments:</b>
 <br>
 Cisco Networking Academy for providing the tools and resources.
+<br>
 Community contributors for their valuable input and feedback.
